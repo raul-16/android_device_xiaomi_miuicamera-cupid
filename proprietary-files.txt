@@ -1,0 +1,9 @@
+# All blobs below are extracted from cupid V14.0.2.0.TLCMIXM
+
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk
+system/etc/public.libraries-xiaomi.txt
+system/lib64/libcamera_algoup_jni.xiaomi.so
+system/lib64/libcamera_mianode_jni.xiaomi.so
+system/lib64/libgui-xiaomi.so
+system/lib64/libmicampostproc_client.so
+system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
