@@ -1,7 +1,7 @@
-From cbccda119ecbfe17a7ac575736b0b1e27585aaad Mon Sep 17 00:00:00 2001
+From 425f95eadf3e5f57de3e20bd59213a6ea8c19d2a Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Thu, 9 Jan 2025 23:47:48 +0100
-Subject: [PATCH 05/10] Redo shortcut icon drawables
+Subject: [PATCH 4/7] Redo shortcut icon drawables
 
 ---
  .../shortcut_capture_mode.webp                | Bin 1806 -> 0 bytes
@@ -506,5 +506,5 @@ index a2e677508..c0b9cd5f3 100644
 +    </foreground>
 +</adaptive-icon>
 -- 
-2.47.2
+2.47.3
 
